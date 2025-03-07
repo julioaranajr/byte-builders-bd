@@ -1,61 +1,48 @@
-# Hello world 👋, I'm julioaranajr
+# We are Cloud Systems Developers
 
-## 💫 About Me
+## About Us
 
-### Cloud Systems Developer
+## **The ByteBuilders-BD Team**
+
+<a href="https://github.com/lulzana/">
+  <img src="https://contrib.rocks/image?repo=lulzana/lulzana" alt="lulzana">
+</a>
+
+[![GitHub][GitHub-shield]][GitHubLZ-url]
+[![Website][Website-shield]][WebSiteLZ-url]
+[![LinkedIn][Linkedin-shield]][LinkedInLZ-url]
+
+<a href="https://github.com/JawidJamee/">
+  <img src="https://contrib.rocks/image?repo=JawidJamee/JawidJamee" alt="JawidJamee">
+</a>
+
+[![GitHub][GitHub-shield]][GitHubMJ-url]
+[![Website][Website-shield]][WebSiteMj-url]
+[![LinkedIn][Linkedin-shield]][LinkedInMj-url]
+
+<a href="https://github.com/julioaranajr/">
+  <img src="https://contrib.rocks/image?repo=julioaranajr/julioaranajr" alt="Julio Arana, Jr.">
+</a>
+
+[![GitHub][GitHub-shield]][GitHubJr-url]
+[![Website][Website-shield]][WebSiteJr-url]
+[![LinkedIn][Linkedin-shield]][LinkedInJr-url]
 
 ### **Overview**
 
-- Motivated and experienced Cloud Engineer with over ten years of experience developing new and innovative design processes, helping companies to meet and exceed  projected expectations.
-- High Technical Analytical and Soft Skills. Ability to work with team's goals.
-- Adaptation, mobility and discipline to perform in multicultural environments.
-- Knowledge and experience in the management and implementation of projects.
-- Full action. Proactive by nature. High Initiative and motivation. Innovation, creativity and commitment.
-- More than 10 years of experience as IT Consultant, Venezuelan Petroleum Companies, Telecommunications and Medical Software Solutions.
-- Languages: English and Spanish.
-- Location: (Germany) - Remote work.
+We are a team of Cloud Systems Developers, who are passionate about building innovative solutions for the web. We are currently working on a project called **ScoreStream**.
 
-<br />
+ScoreStream is A Social Media platform for Sports Fans ⚽ 🏀 ⚾ 🏈
 
-<br />
+An innovative social media platform designed specifically for sports enthusiasts. It provides a dynamic and interactive space where users can connect, share, and engage with their favorite sports teams and fellow fans.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/julioarana"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://iili.io/2bx2q1p.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/julioaranajr"><img width="32px" alt="Twitter" title="Twitter" src="https://iili.io/2bx2BrN.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/julioaranajr"><img width="32px" alt="Dev.to" title="Julio Arana Jr. Dev.to" src="https://iili.io/2bx2fBR.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/julioaranajr"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://iili.io/2bx2n2I.png"/></a>
-</p>
+The platform offers a comprehensive suite of features that cater to the diverse needs of the sports community, from creating and joining groups to participating in events and engaging in real-time chats.
 
-<br />
-
-## Certifications
-
-<br />
-
-<br />
-
-<p align="center">
-<img src="https://iili.io/2bxq4dQ.png" alt="aws certified saa 120x120" border="0">
-<img src="https://iili.io/2bxq67V.png" alt="aws certified developer associate 120x120" border="0">
-<img src="https://iili.io/2bxqPkB.png" alt="aws certified cloud practitioner 120x120" border="0">
-<img src="https://iili.io/2bxqU1j.png" alt="aws well architected proficient" border="0">
-<img src="https://iili.io/2bxqSqb.png" alt="aws partner cloud economics accreditation 120x120" border="0">
-<img src="https://iili.io/2bxqvLu.png" alt="aws partner accreditation technical 120x120" border="0">
-<br />
-<img src="https://iili.io/2bxqkXe.png" alt="aws learning architecting" border="0">
-<img src="https://iili.io/2bxqgrx.png" alt="aws cloud quest cloud practitioner 120x120" border="0">
-</p>
-
-<br />
+With a user-friendly interface and seamless navigation, ScoreStream aims to enhance the overall sports experience for fans around the world. Whether you're a die-hard football fan or a casual basketball enthusiast, ScoreStream has something for everyone.<br />
 
 ## 🛠️ Tech Stack
 
 <br />
-
-<p align="center">Here are some of my favourite tech stacks that I like working with.</p>
 
 <p align="center">
   <a href="https://julioaranajr.com">
@@ -87,26 +74,36 @@
 
 ## What I'm up to
 
-- 😴 I am busy with Cloud Systems Engineering
-- 💻 I am building my personal portafolio **[julioarana-wix-site](https://julioaranajr.wixsite.com/index)**, on the side
-- 👩‍💻 I am learning full stack development from Roadmap.sh
+- 😴 We are busy with Cloud Systems Engineering
+- 💻 We are building our **[ScoreStream-Project](https://github.com/cloud-systems-developer/score-stream)**
+- 👩‍💻 We are learning full stack development from Roadmap.sh
 - 🔭 I’m currently working on **Score-it**(An innovative Social Sport Platform) and **TravelApi**(A Travel API that can help you plan your next trip)
-- 🌱 I’m learning Web technologies, Frontend, Backend, Python.
-- 👯 I’m looking to collaborate on Open source projects, Hackathon and startups
-- 🤔 I’m looking for help with Funding
-- 💬 Ask me about Tech(web development, Design, Linux), Travel, Drones, Music and Good Food.
-- 📫 How to reach me: You can reach me via my email or my social platforms
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Not all programmers are Nerd. I am a living proof of that. I am a full-action (all-in-one package). I love outdoors, adventure, dance, travel, drones, music, football, tech events, coffee, wine and many other things.
+- 🌱 We are learning Web technologies, Frontend, Backend, Python.
+- 👯 We are looking to collaborate on Open source projects, Hackathon and startups
+- 🤔 We are looking for help with Funding
+- 💬 Ask us about web development and cloud solutions.
+- 📫 We are ready for hiring
 
-## Roadmap
+## 📫 Contact Us
 
-[![roadmap.sh](https://roadmap.sh/card/wide/67a78362f863343482de8614?variant=dark)](https://roadmap.sh)
+- **[Lulzana Zekjiri](https://www.linkedin.com/in/lulzana-zekjiri/)**
+- **[Jawid Jamee](https://linkedin.com/in/jawidjamee)**
+- **[Julio Arana](https://linkedin.com/in/julioarana)**
 
-## 📊 GitHub Stats
-
-![Julio's streak stats](https://github-readme-streak-stats.herokuapp.com/?user=julioaranajr&theme=dark&hide_border=true)
-
-<br/>
-
-[![Julio's gitartwork](gitartwork.svg)](https://github.com/julioaranajr)
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[GitHub-shield]: https://img.shields.io/badge/-GitHub-black.svg?style=for-the-badge&logo=github&colorB=555
+[Website-shield]: https://img.shields.io/badge/-Website-black.svg?style=for-the-badge&logo=github&colorB=555
+[Linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+<!-- LULZANA ZEKJIRI -->
+[LinkedInLZ-url]: https://www.linkedin.com/in/lulzana-zekjiri/
+[WebSiteLZ-url]: https://lulzana.github.io
+[GitHubLZ-url]: https://github.com/lulzana
+<!-- MOHAMMAD JAWID JAMEE -->
+[LinkedInMJ-url]: https://linkedin.com/in/jawidjamee
+[WebSiteMJ-url]: https://jawidjamee.github.io
+[GitHubMJ-url]: https://github.com/JawidJamee
+<!-- JULIO ARANA JR. -->
+[LinkedInJR-url]: https://linkedin.com/in/julioarana
+[WebSiteJr-url]: https://julioaranajr.com
+[GitHubJr-url]: https://github.com/julioaranajr
